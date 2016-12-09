@@ -1,5 +1,5 @@
 // Importing from Animations and Messaging
-import { MerryXmas } from './animations';
+// import { MerryXmas } from './animations';
 import { Alert } from './messaging'
 
 // Listener to fire up Merry Xmas
